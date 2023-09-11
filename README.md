@@ -1,7 +1,5 @@
 # ZenNotes 📝✨
 
-![ZenNotes Logo](./assets/sticky-note.png =250x250)
-
 **ZenNotes is not your average note-taking app. It's the cool, laid-back cousin of note apps, WHY?**
 
 - It's not just free; it's a 'free as a bird 🦅 & free as the wind 💨' kind of free! 🐦🌈
