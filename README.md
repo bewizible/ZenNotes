@@ -1,6 +1,6 @@
 # ZenNotes 📝✨
 
-![ZenNotes Logo](./assets/sticky-note.png)
+![ZenNotes Logo](./assets/sticky-note.png =250x250)
 
 **ZenNotes is not your average note-taking app. It's the cool, laid-back cousin of note apps, WHY?**
 
